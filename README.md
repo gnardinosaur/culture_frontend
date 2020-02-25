@@ -2,6 +2,10 @@
 
 An application to find and learn about works of art in The Metropolitan Museum's collection. 
 
+## Deployed Site -
+[Here](https://culture-app.herokuapp.com/)
+Please note, email functionality is not yet live for the deployed version of the site. 
+
 ## 2(ish) Minute Demo -
 [YouTube](https://www.youtube.com/watch?v=5vEtmaPZX44&feature=youtu.be)
 
